@@ -70,5 +70,3 @@ Skilled in **MERN Stack**, **C/C++**, and **Database Management**, I love creati
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divypanchori26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
