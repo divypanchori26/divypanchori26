@@ -55,7 +55,8 @@ Skilled in **MERN Stack**, **C/C++**, and **Database Management**, I love creati
 
 ## 🐍 Contribution Snake  
 
-![snake gif](https://github.com/divypanchori26/divypanchori26/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/divypanchori26/divypanchori26/output/github-contribution-grid-snake.svg)
+
 
 ---
 
